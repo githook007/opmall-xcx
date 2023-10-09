@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "u-attr": "/components/page-component/goods/u-attr",
+    "app-diy-composition-image": "/components/page-component/app-diy-goods-list/app-diy-composition-image"
+  },
+  "component": true
+}

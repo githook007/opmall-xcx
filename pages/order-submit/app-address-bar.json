@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "app-address-popups": "/pages/order-submit/address-popups"
+  },
+  "component": true
+}

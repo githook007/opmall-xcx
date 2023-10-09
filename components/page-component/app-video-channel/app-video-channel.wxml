@@ -1,0 +1,1 @@
+<view class="app-video-channel data-v-62b71322" style="background:#fff;"><channel-video class="channel-video data-v-62b71322" vue-id="1" feed-id="{{value.feedId}}" finder-user-name="{{value.finderUserName}}" autoplay loop binderror="bindError" bind:__l="__l"></channel-video></view>

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "结算",
+  "usingComponents": {
+    "app-dialog": "/pages/order-submit/app-dialog"
+  }
+}

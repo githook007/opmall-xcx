@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "app-goods": "/components/basic-component/app-goods/app-goods"
+  },
+  "component": true
+}
